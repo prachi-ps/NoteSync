@@ -1,0 +1,2 @@
+# NoteSync
+A collaborative workspace 
